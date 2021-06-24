@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @cmzluna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FullStack web development
+- 🌱 I’m currently learning Data Structure & Algorithms
 - 📫 How to reach me ...
 
+Always stretching some JS abilities here: 
 <a href="https://www.codewars.com/users/cmzluna/">
-  <img src="https://www.codewars.com/users/cmzluna/badges/large">
+  <img src="https://www.codewars.com/users/cmzluna/badges/small">
 </a> 
 
 <!---
