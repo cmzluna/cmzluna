@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structure & Algorithms
 - 📫 How to reach me ...
 
-Always stretching some JS abilities here: 
+Always stretching my JS abilities here: 
 <a href="https://www.codewars.com/users/cmzluna/">
   <img src="https://www.codewars.com/users/cmzluna/badges/small">
 </a> 
