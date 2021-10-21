@@ -5,7 +5,7 @@ I’m Claudio Mazzoli
 
  
  |  You can reach me at  | I amuse myself stretching my JS abilities here:            |  
-| ---------------------- |:-------------:| -----:|
+| ---------------------- |:-------------:| 
 |[<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]      | <a href="https://www.codewars.com/users/cmzluna/">
   <img src="https://www.codewars.com/users/cmzluna/badges/small">
 </a>  |  
