@@ -2,7 +2,6 @@
 
 I’m Claudio Mazzoli. 
   I am a fullstack web developer from Buenos Aires, Argentina.
-
 <br />
 
 
