@@ -6,8 +6,9 @@ I’m Claudio Mazzoli
 <br />
 
 
-You can reach me at 
+
 [<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ You can reach me at 
  
 <br />
 I amuse myself stretching my JS abilities here: 
