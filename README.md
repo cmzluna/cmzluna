@@ -8,10 +8,10 @@ I’m Claudio Mazzoli
 
 
 [<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- You can reach me at 
+ Reach me here!
  
 <br />
-I amuse myself stretching my JS abilities here: 
+I amuse myself stretching my JS abilities: 
 
 <a href="https://www.codewars.com/users/cmzluna/">
   <img src="https://www.codewars.com/users/cmzluna/badges/small">
