@@ -3,7 +3,7 @@
 I’m Claudio Mazzoli
   I am a fullstack web developer from Buenos Aires, Argentina.
 
- 
+ ---
 
 
 You can reach me at 
@@ -18,7 +18,7 @@ I amuse myself stretching my JS abilities here: <br />
 </a> 
 <br />
  
-
+---
 
 ### Languages and Tools I´m using:
 
