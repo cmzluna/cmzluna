@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmzluna
-- 👀 I’m interested in FullStack web development
+- 👋 Hi, I’m Claudio Mazzoli
+  I am a fullstack web developer from Buenos Aires, Argentina.
 - 🌱 I’m currently learning Data Structure & Algorithms
-- 📫 How to reach me ...
+- 📫 You can reach me at: https://www.linkedin.com/in/claudio-mazzoli/
 
 Always stretching my JS abilities here: 
 <a href="https://www.codewars.com/users/cmzluna/">
