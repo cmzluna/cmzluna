@@ -3,22 +3,21 @@
 I’m Claudio Mazzoli
   I am a fullstack web developer from Buenos Aires, Argentina.
 
- ---
+<br />
 
 
 You can reach me at 
-<br />
 [<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 <br />
-I amuse myself stretching my JS abilities here: <br />
-<br />
+I amuse myself stretching my JS abilities here: 
+
 <a href="https://www.codewars.com/users/cmzluna/">
   <img src="https://www.codewars.com/users/cmzluna/badges/small">
 </a> 
 <br />
  
----
+
 
 ### Languages and Tools I´m using:
 
