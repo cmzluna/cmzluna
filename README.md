@@ -1,7 +1,7 @@
 ### 👋  Hi, there! 
 
 I’m Claudio Mazzoli. 
-  I am a fullstack web developer from Buenos Aires, Argentina.
+  I am a fullstack web developer working with JS, React, Node. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
 <br />
 
 
