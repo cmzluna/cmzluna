@@ -1,8 +1,10 @@
-👋 Hi, I’m Claudio Mazzoli
+### 👋  Hi, there! 
+
+I’m Claudio Mazzoli
   I am a fullstack web developer from Buenos Aires, Argentina.
 
 You can reach me at 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br /><br />
