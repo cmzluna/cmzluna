@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Claudio Mazzoli
   I am a fullstack web developer from Buenos Aires, Argentina.
 - 🌱 I’m currently learning Data Structure & Algorithms
-- 📫 You can reach me at: https://www.linkedin.com/in/claudio-mazzoli/
+- 📫 You can reach me at:
+<a href="https://www.linkedin.com/in/claudio-mazzoli/">
+  /in/claudio-mazzoli/
+</a> 
+
 
 Always stretching my JS abilities here: 
 <a href="https://www.codewars.com/users/cmzluna/">
