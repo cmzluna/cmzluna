@@ -1,4 +1,4 @@
-### 👋  Hi, there! 
+###  Hi, there! 👨🏻‍💻
 
 I’m Claudio Mazzoli. 
   I am a fullstack web developer working with JS, React, Node. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
@@ -7,7 +7,7 @@ I’m Claudio Mazzoli.
 
 
 [<img align="left" alt="LinkedIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- Reach me here!
+ Invite me to connect !
  
 <br />
 I amuse myself stretching my JS abilities: 
@@ -19,7 +19,7 @@ I amuse myself stretching my JS abilities:
  
 
 
-### Languages and Tools I´m using:
+### Languages and Tools I use everyday 💻 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
