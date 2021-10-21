@@ -1,7 +1,7 @@
 ###  Hi, there! 👨🏻‍💻
 
 I’m Claudio Mazzoli. 
-  I am a fullstack web developer working with JS, React, Node. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
+  I am a fullstack web developer working with JS, React, Node and many other technologies. My current focus is on the FrontEnd although I enjoy also working on the BackEnd. 
 <br />
 
 
