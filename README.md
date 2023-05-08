@@ -2,7 +2,7 @@
 
 
 I'm a fullstack web developer working with JS, React, React Native, Redux, Node and many other technologies. 
-My current focus is on the FrontEnd developing Mobile Apps with RN. 
+My current focus is on the FrontEnd developing Mobile Apps with ReactNative. 
 <br />
 Currently Learning Kotlin/Android Native Development.
 
